@@ -82,9 +82,6 @@ p {
 
 .page-header {
   background-color: var(--primary-white-color);
-}
-
-.page-header.border {
   border-bottom: 1px solid #ececec;
 }
 
